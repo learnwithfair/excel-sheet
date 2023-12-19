@@ -1,0 +1,6 @@
+1. Calculate Commission
+2. Job Card
+3. Bank Account
+4. Eclectricity Bill
+5. Salary Sheet
+6. Result Sheet
